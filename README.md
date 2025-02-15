@@ -1,4 +1,4 @@
-"# RAG_text_summerization" 
+# RAG_text_summerization
 
 This project implements a **Retrieval-Augmented Generation (RAG)** system for summarizing and retrieving documents. It uses **ChromaDB** for document storage and retrieval, **Hugging Face embeddings** for semantic search, and the **meta-llama/Llama-3.3-70B-Instruct** model for summarization.
 
