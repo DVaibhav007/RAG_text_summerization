@@ -129,7 +129,3 @@ Summary for query 'GDP Growth': "GDP growth is influenced by various factors, in
 
 - **PDF Parsing Warnings**:
   - Warnings like `Multiple definitions in dictionary` are from the `pypdf` library and can be ignored unless they affect the document content.
-
-
-This `README.md` provides a comprehensive guide to your project. Let me know if you need further customization!
-
